@@ -67,3 +67,9 @@
     @apply bg-background text-foreground;
   }
 }
+
+html,
+body {
+  position: relative;
+  min-height: 100dvh;
+}
